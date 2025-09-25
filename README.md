@@ -17,3 +17,6 @@ Data input dibaca.<br>
 Program membuat objek sesuai tipe (Mammal atau Bird).<br>
 Objek dimasukkan ke ArrayList<Animal>.<br>
 JTextArea menampilkan info hewan + suara.<br>
+
+#### Contoh Output
+![output](https://github.com/Zoob-air/zoo_manager/blob/main/output.jpg)
