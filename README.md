@@ -19,4 +19,5 @@ Objek dimasukkan ke ArrayList<Animal>.<br>
 JTextArea menampilkan info hewan + suara.<br>
 
 #### Contoh Output
-![output](https://github.com/Zoob-air/zoo_manager/blob/main/output.jpg)
+![output](![WhatsApp Image 2025-09-26 at 21 07 10](https://github.com/user-attachments/assets/c0eafdf5-851f-4d78-be2d-c1aea3cd28ec)
+)
