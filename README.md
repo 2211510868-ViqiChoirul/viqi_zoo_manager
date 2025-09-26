@@ -1,6 +1,6 @@
 ### UTS IMPLEMENTASI PBO
-- NAMA : ZUBAIR
-- NIM 2211510629
+- NAMA : Viqi choirul Fuad
+- NIM 2211510868
 # zoo_manager
 
 
